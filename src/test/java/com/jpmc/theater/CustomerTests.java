@@ -17,7 +17,7 @@ public class CustomerTests {
     }
 
     /**
-     * Compares if two same customer objects are equal
+     * Checks if two same customer objects are equal
      */
     @Test
     void compareTwoSameCustomers() {
@@ -27,7 +27,7 @@ public class CustomerTests {
     }
 
     /**
-     * Compares if two differ customer objects are not equal
+     * Checks if two differ customer objects are not equal
      */
     @Test
     void compareTwoCustomersWithDiffId() {
